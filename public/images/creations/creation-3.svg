@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="none">
+  <!-- Deep Berry & Velvet ground -->
+  <rect width="800" height="1000" fill="#3D1826"/>
+  
+  <!-- Subtle Velvet nap shimmer overlay -->
+  <radialGradient id="velvet-glow" cx="50%" cy="45%" r="60%">
+    <stop offset="0%" stop-color="#581C31"/>
+    <stop offset="100%" stop-color="#2D101C"/>
+  </radialGradient>
+  <rect width="800" height="1000" fill="url(#velvet-glow)"/>
+
+  <!-- Pouch drawstring loop hint -->
+  <path d="M120 180 Q400 230 680 180" stroke="#EAB7CA" stroke-width="4" stroke-dasharray="10 8"/>
+
+  <!-- Embroidered Golden Crescent Moon & Rose Florals -->
+  <g transform="translate(400, 520)">
+    <!-- Crescent Moon with needle stitch contour -->
+    <path d="M-40 -160 C50 -160, 140 -80, 140 40 C140 160, 50 240, -40 240 C30 200, 70 120, 70 40 C70 -40, 30 -120, -40 -160 Z" fill="#F6E6A3" stroke="#ECC55A" stroke-width="3"/>
+    
+    <!-- Delicate embroidery stars (pure SVG) -->
+    <g transform="translate(-140, -70) scale(1.2)">
+      <line x1="0" y1="-20" x2="0" y2="20" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-20" y1="0" x2="20" y2="0" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-10" y1="-10" x2="10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <line x1="10" y1="-10" x2="-10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="3.5" fill="#FFF7F8"/>
+    </g>
+    <g transform="translate(-180, 80) scale(0.9)">
+      <line x1="0" y1="-20" x2="0" y2="20" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-20" y1="0" x2="20" y2="0" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-10" y1="-10" x2="10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <line x1="10" y1="-10" x2="-10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="3.5" fill="#FFF7F8"/>
+    </g>
+    <g transform="translate(-90, 150) scale(1.1)">
+      <line x1="0" y1="-20" x2="0" y2="20" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-20" y1="0" x2="20" y2="0" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-10" y1="-10" x2="10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <line x1="10" y1="-10" x2="-10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="3.5" fill="#FFF7F8"/>
+    </g>
+    <g transform="translate(170, -90) scale(0.8)">
+      <line x1="0" y1="-20" x2="0" y2="20" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-20" y1="0" x2="20" y2="0" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-10" y1="-10" x2="10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <line x1="10" y1="-10" x2="-10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="3.5" fill="#FFF7F8"/>
+    </g>
+    <g transform="translate(190, 120) scale(1.0)">
+      <line x1="0" y1="-20" x2="0" y2="20" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-20" y1="0" x2="20" y2="0" stroke="#F6E6A3" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-10" y1="-10" x2="10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <line x1="10" y1="-10" x2="-10" y2="10" stroke="#EAB7CA" stroke-width="1.8" stroke-linecap="round"/>
+      <circle cx="0" cy="0" r="3.5" fill="#FFF7F8"/>
+    </g>
+
+    <!-- Botanical Roses entwined around the crescent -->
+    <g transform="translate(30, 20)">
+      <!-- Curving vine -->
+      <path d="M-80 60 C-20 40, 40 80, 60 0 C70 -50, 10 -90, -30 -60" stroke="#A9BBA0" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+      
+      <!-- Wild Rose in blush & raspberry -->
+      <circle cx="-30" cy="-60" r="28" fill="#F5DCE5" stroke="#C83F70" stroke-width="2.5"/>
+      <circle cx="-30" cy="-60" r="14" fill="#C83F70"/>
+      <circle cx="-30" cy="-60" r="5" fill="#F6E6A3"/>
+
+      <!-- Secondary baby bud -->
+      <circle cx="60" cy="0" r="16" fill="#EAB7CA" stroke="#C83F70" stroke-width="2"/>
+      <circle cx="60" cy="0" r="6" fill="#FFF7F8"/>
+
+      <!-- Stitched leaves -->
+      <path d="M0 65 C15 50, 35 65, 30 75 C15 85, -5 75, 0 65 Z" fill="#A9BBA0" stroke="#FFF7F8" stroke-width="1.2"/>
+      <path d="M50 -40 C65 -55, 80 -40, 75 -30 C65 -20, 45 -30, 50 -40 Z" fill="#A9BBA0" stroke="#FFF7F8" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

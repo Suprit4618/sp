@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Ballet Pink silk surface -->
+  <rect width="800" height="600" fill="#F8EFF3"/>
+  
+  <!-- Flowing Silk Organza Ribbon Bow -->
+  <path d="M400 300 C280 200, 160 220, 150 320 C140 400, 260 380, 390 320" fill="#F5DCE5" stroke="#EAB7CA" stroke-width="2"/>
+  <path d="M400 300 C520 200, 640 220, 650 320 C660 400, 540 380, 410 320" fill="#F5DCE5" stroke="#EAB7CA" stroke-width="2"/>
+  <!-- Bow knot center -->
+  <ellipse cx="400" cy="310" rx="36" ry="46" fill="#EAB7CA" stroke="#C83F70" stroke-width="2"/>
+
+  <!-- Trailing ribbon tails -->
+  <path d="M380 340 C360 440, 290 510, 240 560" stroke="#EAB7CA" stroke-width="22" stroke-linecap="round"/>
+  <path d="M420 340 C440 440, 510 510, 560 560" stroke="#EAB7CA" stroke-width="22" stroke-linecap="round"/>
+
+  <!-- Embroidered Miniature Roses on the knot and bow loops -->
+  <g transform="translate(400, 310)">
+    <circle cx="0" cy="0" r="16" fill="#C83F70"/>
+    <circle cx="0" cy="0" r="8" fill="#F5DCE5" stroke="#752743" stroke-width="1"/>
+    <circle cx="0" cy="0" r="3" fill="#F6E6A3"/>
+  </g>
+
+  <g transform="translate(260, 290)">
+    <circle cx="0" cy="0" r="12" fill="#EAB7CA" stroke="#C83F70" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="5" fill="#C83F70"/>
+    <!-- Small sage leaf -->
+    <path d="M10 -5 C20 -15, 25 -5, 20 5 Z" fill="#A9BBA0" stroke="#752743" stroke-width="0.8"/>
+  </g>
+
+  <g transform="translate(540, 290)">
+    <circle cx="0" cy="0" r="12" fill="#EAB7CA" stroke="#C83F70" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="5" fill="#C83F70"/>
+    <!-- Small sage leaf -->
+    <path d="M-10 -5 C-20 -15, -25 -5, -20 5 Z" fill="#A9BBA0" stroke="#752743" stroke-width="0.8"/>
+  </g>
+</svg>
+

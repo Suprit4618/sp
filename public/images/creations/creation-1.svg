@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="none">
+  <!-- Natural linen tote background with tactile texture -->
+  <rect width="800" height="1000" fill="#FBF7F0"/>
+  <!-- Linen grain pattern -->
+  <g opacity="0.08">
+    <pattern id="linen-mesh" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M 0 6 L 12 6 M 6 0 L 6 12" stroke="#38272D" stroke-width="0.7"/>
+    </pattern>
+    <rect width="800" height="1000" fill="url(#linen-mesh)"/>
+  </g>
+  <!-- Tote seam stitching -->
+  <line x1="80" y1="120" x2="720" y2="120" stroke="#752743" stroke-width="2.5" stroke-dasharray="8 6"/>
+  
+  <!-- Central Wildflower Embroidered Bouquet -->
+  <g transform="translate(400, 520)">
+    <!-- Main stem cluster -->
+    <path d="M0 260 C-20 120, -50 0, -80 -140" stroke="#8C9F83" stroke-width="5" stroke-linecap="round"/>
+    <path d="M0 260 C10 140, 20 20, 40 -120" stroke="#752743" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M0 260 C30 160, 80 50, 110 -80" stroke="#8C9F83" stroke-width="4.5" stroke-linecap="round"/>
+
+    <!-- Soft sage embroidered leaves -->
+    <path d="M-40 60 C-75 50, -85 20, -55 10 C-30 20, -35 50, -40 60 Z" fill="#A9BBA0" stroke="#752743" stroke-width="2"/>
+    <path d="M20 90 C60 85, 75 55, 45 45 C25 55, 15 80, 20 90 Z" fill="#A9BBA0" stroke="#752743" stroke-width="2"/>
+    <path d="M-60 -40 C-95 -45, -100 -75, -70 -80 C-45 -70, -50 -45, -60 -40 Z" fill="#C4D2BE" stroke="#752743" stroke-width="2"/>
+
+    <!-- Raspberry & Rosewater Satin-Stitch Rose -->
+    <g transform="translate(-80, -140)">
+      <circle cx="0" cy="0" r="55" fill="#F5DCE5" stroke="#C83F70" stroke-width="4" stroke-dasharray="10 4"/>
+      <circle cx="0" cy="0" r="38" fill="#EAB7CA" stroke="#C83F70" stroke-width="3"/>
+      <ellipse cx="-4" cy="-3" rx="20" ry="16" fill="#C83F70"/>
+      <circle cx="0" cy="0" r="8" fill="#F6E6A3"/>
+    </g>
+
+    <!-- Butter Yellow Daisy Blossom -->
+    <g transform="translate(40, -120)">
+      <g stroke="#752743" stroke-width="2.5" fill="#F6E6A3">
+        <ellipse cx="0" cy="-32" rx="9" ry="24"/>
+        <ellipse cx="23" cy="-23" rx="9" ry="24" transform="rotate(45 23 -23)"/>
+        <ellipse cx="32" cy="0" rx="9" ry="24" transform="rotate(90 32 0)"/>
+        <ellipse cx="23" cy="23" rx="9" ry="24" transform="rotate(135 23 23)"/>
+        <ellipse cx="0" cy="32" rx="9" ry="24" transform="rotate(180 0 32)"/>
+        <ellipse cx="-23" cy="23" rx="9" ry="24" transform="rotate(225 -23 23)"/>
+        <ellipse cx="-32" cy="0" rx="9" ry="24" transform="rotate(270 -32 0)"/>
+        <ellipse cx="-23" cy="-23" rx="9" ry="24" transform="rotate(315 -23 -23)"/>
+      </g>
+      <circle cx="0" cy="0" r="16" fill="#FFC5A8" stroke="#752743" stroke-width="2"/>
+      <circle cx="0" cy="0" r="6" fill="#C83F70"/>
+    </g>
+
+    <!-- Peach Poppy bud -->
+    <g transform="translate(110, -80)">
+      <circle cx="0" cy="0" r="32" fill="#FFC5A8" stroke="#C83F70" stroke-width="3" stroke-dasharray="6 3"/>
+      <circle cx="-3" cy="-2" r="14" fill="#C83F70"/>
+      <circle cx="0" cy="0" r="5" fill="#FAF0C2"/>
+    </g>
+
+    <!-- Scattered French knot accents -->
+    <circle cx="-110" cy="-60" r="7" fill="#C83F70" stroke="#752743" stroke-width="1.5"/>
+    <circle cx="-130" cy="-90" r="5" fill="#EAB7CA"/>
+    <circle cx="90" cy="-170" r="8" fill="#F6E6A3" stroke="#752743" stroke-width="1.5"/>
+    <circle cx="130" cy="-140" r="6" fill="#FFC5A8"/>
+  </g>
+
+  <!-- Editorial corner stitch hallmark -->
+  <text x="70" y="930" font-family="'DM Sans', sans-serif" font-size="14" fill="#624A53" letter-spacing="2">PINK LUNNA / ATELIER ARCHIVE</text>
+  <text x="630" y="930" font-family="'DM Sans', sans-serif" font-size="14" fill="#624A53" letter-spacing="2">NO. 001</text>
+</svg>
+

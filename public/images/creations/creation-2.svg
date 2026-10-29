@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" fill="none">
+  <!-- Studio tabletop warm blush background -->
+  <rect width="800" height="800" fill="#FFF7F8"/>
+  
+  <!-- Outer Wooden Embroidery Hoop -->
+  <circle cx="400" cy="400" r="320" stroke="#D7B299" stroke-width="24"/>
+  <circle cx="400" cy="400" r="332" stroke="#B88A6F" stroke-width="2"/>
+  <circle cx="400" cy="400" r="308" stroke="#F5DCE5" stroke-width="1.5"/>
+
+  <!-- Brass tightening screw top -->
+  <g transform="translate(400, 72)">
+    <rect x="-18" y="-22" width="36" height="20" rx="3" fill="#D4AF37" stroke="#752743" stroke-width="2"/>
+    <line x1="-12" y1="-12" x2="12" y2="-12" stroke="#752743" stroke-width="2"/>
+    <circle cx="0" cy="-26" r="6" fill="#ECC55A" stroke="#752743" stroke-width="1.5"/>
+  </g>
+
+  <!-- Stretched Calico Fabric inside hoop -->
+  <circle cx="400" cy="400" r="304" fill="#FAF5EF"/>
+
+  <!-- Intricate Satin-Stitched Peony -->
+  <g transform="translate(400, 410)">
+    <!-- Curled Peony outer petals -->
+    <path d="M-120 -40 C-150 -10, -110 90, -40 120 C40 130, 120 80, 140 -20 C150 -80, 70 -130, -20 -130 C-90 -125, -100 -70, -120 -40 Z" fill="#F5DCE5" stroke="#C83F70" stroke-width="3"/>
+    
+    <!-- Medium inner petals layer -->
+    <path d="M-80 -20 C-100 20, -70 80, 0 85 C60 85, 90 30, 80 -40 C70 -80, 0 -95, -50 -70 C-75 -50, -70 -35, -80 -20 Z" fill="#EAB7CA" stroke="#C83F70" stroke-width="2.5" stroke-dasharray="8 4"/>
+
+    <!-- Inner tight heart rosette -->
+    <path d="M-40 0 C-45 30, -10 50, 15 40 C35 30, 40 -10, 20 -35 C0 -50, -30 -30, -40 0 Z" fill="#C83F70"/>
+    <path d="M-20 -10 C-15 10, 10 15, 12 -5 C10 -20, -10 -20, -20 -10 Z" fill="#752743"/>
+    
+    <!-- Gold thread stamens -->
+    <circle cx="-12" cy="-18" r="3.5" fill="#F6E6A3" stroke="#752743" stroke-width="1"/>
+    <circle cx="2" cy="-22" r="3.5" fill="#F6E6A3" stroke="#752743" stroke-width="1"/>
+    <circle cx="14" cy="-14" r="3.5" fill="#F6E6A3" stroke="#752743" stroke-width="1"/>
+    <circle cx="-2" cy="-6" r="3.5" fill="#FFC5A8" stroke="#752743" stroke-width="1"/>
+
+    <!-- Surrounding eucalyptus sprigs -->
+    <path d="M-130 90 C-180 140, -210 120, -230 170" stroke="#752743" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="-180" cy="125" r="18" fill="#A9BBA0" stroke="#752743" stroke-width="2"/>
+    <circle cx="-225" cy="155" r="14" fill="#A9BBA0" stroke="#752743" stroke-width="1.8"/>
+
+    <path d="M110 -90 C160 -130, 190 -110, 220 -150" stroke="#752743" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="160" cy="-115" r="16" fill="#A9BBA0" stroke="#752743" stroke-width="2"/>
+    <circle cx="210" cy="-140" r="13" fill="#A9BBA0" stroke="#752743" stroke-width="1.8"/>
+  </g>
+</svg>
+
